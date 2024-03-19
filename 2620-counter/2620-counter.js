@@ -4,10 +4,9 @@
  */
 var createCounter = function(n) {
     var i = n;
-    
     return function() {
         return i++;
-    }
+    };
 };
 
 /** 
