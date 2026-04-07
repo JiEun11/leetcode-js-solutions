@@ -21,3 +21,19 @@ Contributions are welcome! If you have a different approach or have found a bett
 ## Disclaimer
 
 Please note that these solutions are provided for learning and reference purposes. While efforts have been made to ensure correctness and efficiency, there may exist better or more optimized solutions. Use at your own discretion.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0242-valid-anagram) |
+<!---LeetCode Topics End-->
