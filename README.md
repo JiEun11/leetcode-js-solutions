@@ -40,6 +40,7 @@ Please note that these solutions are provided for learning and reference purpose
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0322-coin-change) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Please note that these solutions are provided for learning and reference purpose
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0322-coin-change) |
 ## Union-Find
 |  |
 | ------- |
@@ -56,4 +58,8 @@ Please note that these solutions are provided for learning and reference purpose
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0200-number-of-islands) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
