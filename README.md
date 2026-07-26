@@ -27,6 +27,7 @@ Please note that these solutions are provided for learning and reference purpose
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -40,6 +41,7 @@ Please note that these solutions are provided for learning and reference purpose
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0001-two-sum) |
 | [0200-number-of-islands](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0322-coin-change) |
 ## Depth-First Search
