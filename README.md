@@ -28,20 +28,24 @@ Please note that these solutions are provided for learning and reference purpose
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0049-group-anagrams) |
 | [0200-number-of-islands](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0322-coin-change) |
 ## Depth-First Search
