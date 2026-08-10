@@ -73,4 +73,16 @@ Please note that these solutions are provided for learning and reference purpose
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0125-valid-palindrome) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
