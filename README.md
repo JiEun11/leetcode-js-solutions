@@ -85,4 +85,12 @@ Please note that these solutions are provided for learning and reference purpose
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0933-number-of-recent-calls) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
