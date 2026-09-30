@@ -49,6 +49,7 @@ Please note that these solutions are provided for learning and reference purpose
 | [0200-number-of-islands](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/JiEun11/leetcode-js-solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/JiEun11/leetcode-js-solutions/tree/master/1254-number-of-closed-islands) |
 ## Depth-First Search
@@ -56,6 +57,7 @@ Please note that these solutions are provided for learning and reference purpose
 | ------- |
 | [0200-number-of-islands](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/JiEun11/leetcode-js-solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/JiEun11/leetcode-js-solutions/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
@@ -64,12 +66,14 @@ Please note that these solutions are provided for learning and reference purpose
 | [0200-number-of-islands](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/JiEun11/leetcode-js-solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/JiEun11/leetcode-js-solutions/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/JiEun11/leetcode-js-solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/JiEun11/leetcode-js-solutions/tree/master/1254-number-of-closed-islands) |
 ## Matrix
@@ -77,6 +81,7 @@ Please note that these solutions are provided for learning and reference purpose
 | ------- |
 | [0200-number-of-islands](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/JiEun11/leetcode-js-solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/JiEun11/leetcode-js-solutions/tree/master/1254-number-of-closed-islands) |
 ## Dynamic Programming
