@@ -87,6 +87,7 @@ Please note that these solutions are provided for learning and reference purpose
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0322-coin-change) |
 ## Two Pointers
 |  |
@@ -112,4 +113,12 @@ Please note that these solutions are provided for learning and reference purpose
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
