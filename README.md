@@ -1,124 +1,18 @@
-# LeetCode JavaScript Solutions
+# leetcode-js-solutions
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Logo" width="200">
+Archive of accepted coding challenge solutions, synced by [AlgorithmHub](https://github.com/dev-minsoo/AlgorithmHub).
 
-This repository contains my JavaScript solutions to various problems on LeetCode.
+## Summary
 
-## About LeetCode
+| Platform | Solved |
+| --- | ---: |
+| LeetCode | 1 |
+| 프로그래머스 | 0 |
+| HackerRank | 0 |
+| Total | 1 |
 
-[LeetCode](https://leetcode.com/) is a platform for preparing technical coding interviews. It offers a vast collection of coding problems across different difficulty levels and domains such as algorithms, data structures, database, and system design.
+## Platforms
 
-## Repository Structure
-
-- Each problem is organized in its own directory under the `problems` folder.
-- Inside each problem directory, you can find the JavaScript solution file named according to the LeetCode problem ID and title.
-- Along with the solution file, you may find additional files such as `README.md` providing problem description, explanation, and example test cases.
-
-## Contributing
-
-Contributions are welcome! If you have a different approach or have found a better solution, feel free to submit a pull request.
-
-## Disclaimer
-
-Please note that these solutions are provided for learning and reference purposes. While efforts have been made to ensure correctness and efficiency, there may exist better or more optimized solutions. Use at your own discretion.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0001-two-sum) |
-| [0049-group-anagrams](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0049-group-anagrams) |
-| [0242-valid-anagram](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0242-valid-anagram) |
-## String
-|  |
-| ------- |
-| [0049-group-anagrams](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0049-group-anagrams) |
-| [0125-valid-palindrome](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0125-valid-palindrome) |
-| [0242-valid-anagram](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0242-valid-anagram) |
-## Sorting
-|  |
-| ------- |
-| [0049-group-anagrams](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0049-group-anagrams) |
-| [0242-valid-anagram](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0242-valid-anagram) |
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0001-two-sum) |
-| [0049-group-anagrams](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0049-group-anagrams) |
-| [0200-number-of-islands](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0200-number-of-islands) |
-| [0322-coin-change](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0322-coin-change) |
-| [0463-island-perimeter](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0463-island-perimeter) |
-| [0695-max-area-of-island](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0695-max-area-of-island) |
-| [1020-number-of-enclaves](https://github.com/JiEun11/leetcode-js-solutions/tree/master/1020-number-of-enclaves) |
-| [1254-number-of-closed-islands](https://github.com/JiEun11/leetcode-js-solutions/tree/master/1254-number-of-closed-islands) |
-## Depth-First Search
-|  |
-| ------- |
-| [0200-number-of-islands](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0200-number-of-islands) |
-| [0463-island-perimeter](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0463-island-perimeter) |
-| [0695-max-area-of-island](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0695-max-area-of-island) |
-| [1020-number-of-enclaves](https://github.com/JiEun11/leetcode-js-solutions/tree/master/1020-number-of-enclaves) |
-| [1254-number-of-closed-islands](https://github.com/JiEun11/leetcode-js-solutions/tree/master/1254-number-of-closed-islands) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0200-number-of-islands](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0200-number-of-islands) |
-| [0322-coin-change](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0322-coin-change) |
-| [0463-island-perimeter](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0463-island-perimeter) |
-| [0695-max-area-of-island](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0695-max-area-of-island) |
-| [1020-number-of-enclaves](https://github.com/JiEun11/leetcode-js-solutions/tree/master/1020-number-of-enclaves) |
-| [1254-number-of-closed-islands](https://github.com/JiEun11/leetcode-js-solutions/tree/master/1254-number-of-closed-islands) |
-## Union-Find
-|  |
-| ------- |
-| [0200-number-of-islands](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0200-number-of-islands) |
-| [0695-max-area-of-island](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0695-max-area-of-island) |
-| [1020-number-of-enclaves](https://github.com/JiEun11/leetcode-js-solutions/tree/master/1020-number-of-enclaves) |
-| [1254-number-of-closed-islands](https://github.com/JiEun11/leetcode-js-solutions/tree/master/1254-number-of-closed-islands) |
-## Matrix
-|  |
-| ------- |
-| [0200-number-of-islands](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0200-number-of-islands) |
-| [0463-island-perimeter](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0463-island-perimeter) |
-| [0695-max-area-of-island](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0695-max-area-of-island) |
-| [1020-number-of-enclaves](https://github.com/JiEun11/leetcode-js-solutions/tree/master/1020-number-of-enclaves) |
-| [1254-number-of-closed-islands](https://github.com/JiEun11/leetcode-js-solutions/tree/master/1254-number-of-closed-islands) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0070-climbing-stairs](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0070-climbing-stairs) |
-| [0322-coin-change](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0322-coin-change) |
-## Two Pointers
-|  |
-| ------- |
-| [0125-valid-palindrome](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0125-valid-palindrome) |
-## Design
-|  |
-| ------- |
-| [0933-number-of-recent-calls](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0933-number-of-recent-calls) |
-## Queue
-|  |
-| ------- |
-| [0933-number-of-recent-calls](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0933-number-of-recent-calls) |
-## Data Stream
-|  |
-| ------- |
-| [0933-number-of-recent-calls](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0933-number-of-recent-calls) |
-## Linked List
-|  |
-| ------- |
-| [0206-reverse-linked-list](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0206-reverse-linked-list) |
-## Recursion
-|  |
-| ------- |
-| [0206-reverse-linked-list](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0206-reverse-linked-list) |
-## Math
-|  |
-| ------- |
-| [0070-climbing-stairs](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0070-climbing-stairs) |
-## Memoization
-|  |
-| ------- |
-| [0070-climbing-stairs](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0070-climbing-stairs) |
-<!---LeetCode Topics End-->
+- [LeetCode](./Leetcode)
+- [프로그래머스](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4)
+- [HackerRank](./HackerRank)
