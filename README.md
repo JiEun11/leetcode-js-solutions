@@ -27,8 +27,13 @@ Archive of accepted coding challenge solutions, synced by [AlgorithmHub](https:/
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0344-reverse-string](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/JiEun11/leetcode-js-solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
