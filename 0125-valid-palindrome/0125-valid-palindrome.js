@@ -1,35 +1,33 @@
 /**
- * Brute Force: O(N) - reverse and compare
- * Optimized:  O(N) - two pointers
- *
- * Time:  O(N)
- * Space: O(N)
+ * @param {string} s
+ * @return {boolean}
  */
-function isPalindrome(s) {
-    // 영숫자만 남기고 소문자로 변환
-    const filtered = s
-        .toLowerCase()
-        .split("")
-        .filter((char) => /[a-z0-9]/.test(char))
-        .join("");
-
-    // Edge case
-    if (filtered.length <= 1) return true;
-
-    // Two Pointers
+var isPalindrome = function(s) {
     let left = 0;
-    let right = filtered.length - 1;
+    let right = s.length-1;
 
     while (left < right) {
-        if (filtered[left] !== filtered[right]) return false;
-        left++;
-        right--;
+        // Check whether a character is a letter or digit.
+        const isLeftLetterOrDigit = /[a-z0-9]/i.test(s[left]);
+        const isRightLetterOrDigit = /[a-z0-9]/i.test(s[right]);
+
+        if (!isLeftLetterOrDigit) {
+            left++;
+            continue;
+        }
+        if (!isRightLetterOrDigit) {
+            right--;
+            continue;
+        }
+
+        if (s[left].toLowerCase()!== s[right].toLowerCase()) {
+            return false;
+        } 
+        else {
+            left++;
+            right--;
+        }
+
     }
-
     return true;
-}
-
-// Test
-console.log(isPalindrome("A man, a plan, a canal: Panama")); // true
-console.log(isPalindrome("race a car"));                     // false
-console.log(isPalindrome(" "));                              // true
+};
